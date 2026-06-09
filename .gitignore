@@ -1,0 +1,27 @@
+# Simulation output files
+*.out
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.ghw
+*.wlf
+transcript
+work/
+modelsim.ini
+vsim.wlf
+
+# Build/cache files
+build/
+dist/
+.cache/
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
