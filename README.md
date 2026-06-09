@@ -140,19 +140,6 @@ The testbench:
 - The `vend` signal is used to start the operation and also to move from coin insertion to amount checking.
 - The design focuses on FSM behavior and digital logic implementation.
 
-## Suggested Repository Name
-
-```text
-Verilog-Vending-Machine-FSM
-```
-
-Alternative names:
-
-```text
-Vending-Machine-Verilog
-Digital-Logic-Vending-Machine
-FSM-Vending-Machine
-```
 
 ## Author
 
